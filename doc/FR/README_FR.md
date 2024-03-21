@@ -41,10 +41,9 @@ Pour Chrome :
 1)	Ouvrir les dev tools en tapant &lt;F12&gt;
 2)	Onglet "Network"
 3)	Le bouton Record est actif. 
-4)  Il faut cocher "Preserve log"
-5)	Si besoin effacer les échanges avant de naviguer
-6)	Naviguer dans l’application pour générer les échanges réseaux (attendre quelques secondes entre les pages afin de regrouper les échanges par la suite)
-7)	Sauvegarder les échanges au format HAR avec "Export HAR ..."
+4)  Il faut cocher "Preserve log". Facultatif)	Si besoin effacer les échanges avant de naviguer
+5)	Naviguer dans l’application pour générer les échanges réseaux (attendre quelques secondes entre les pages afin de regrouper les échanges par la suite)
+6)	Sauvegarder les échanges au format HAR avec "Export HAR ..."
 
 ![Création d'un fichier HAR dans Chrome](../../doc/images/fr_chrome_record_har.png)
 
