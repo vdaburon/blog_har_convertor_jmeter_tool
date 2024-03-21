@@ -1,6 +1,6 @@
 # Article in English for the site https://dzone.com/
 
-## Motivation for creating a tool for converting a HAR file into JMeter and Record.xml script
+## Motivation for creating a tool to convert a HAR file into JMeter script and Record.xml script
 
 Recording a JMeter script via the classic method of using a "Recording template" requires several operations and requires high administrator rights on the machine.
 
@@ -48,7 +48,7 @@ In Chrome :
 
 ![Create a HAR in Chrome](../../doc/images/us_chrome_record_har.png)
 
-## har-convertor-jmeter-plugin  tool
+## har-convertor-jmeter-plugin tool
 
 ### Installing the plugin in JMeter
 The recommended solution to install the plugin is to use the plugin manager of the site https://jmeter-plugins.org
