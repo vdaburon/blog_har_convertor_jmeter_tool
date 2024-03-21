@@ -30,7 +30,7 @@ Pour Firefox :
 3)	Activer "Conserver les journaux"
 4)	Si besoin effacer les échanges avant de naviguer
 5)	Naviguer dans l’application pour générer les échanges réseaux (attendre quelques secondes entre les pages afin de regrouper les échanges par la suite)
-5)	Sauvegarder les échanges au format HAR
+6)	Sauvegarder les échanges au format HAR
 
 ![Création d'un fichier HAR dans Firefox](../../doc/images/fr_firefox_record_har.png)
 
