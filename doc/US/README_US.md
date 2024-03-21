@@ -1,4 +1,4 @@
-# Article en français pour le site https://dzone.com/
+# Article in English for the site https://dzone.com/
 
 ## Motivation for creating a tool for converting a HAR file into JMeter and Record.xml script
 
