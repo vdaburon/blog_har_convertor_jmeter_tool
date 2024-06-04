@@ -1,4 +1,4 @@
-# Article en français pour le site https://www.developpez.com/
+# Article en français
 
 ## Motivation pour la création d'un outil de conversion d'un fichier HAR en script JMeter et Record.xml
 
